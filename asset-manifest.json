@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ndcareapp.git/static/css/main.ea03659a.css",
-    "main.js": "/ndcareapp.git/static/js/main.6c2835de.js",
-    "static/media/herbel.jpg": "/ndcareapp.git/static/media/herbel.b2e34aa1de8996bd16a5.jpg",
-    "static/media/drnavdeepsharma.webp": "/ndcareapp.git/static/media/drnavdeepsharma.25dc9ab8fa3a1f0f31bc.webp",
-    "index.html": "/ndcareapp.git/index.html",
-    "main.ea03659a.css.map": "/ndcareapp.git/static/css/main.ea03659a.css.map",
-    "main.6c2835de.js.map": "/ndcareapp.git/static/js/main.6c2835de.js.map"
+    "main.css": "/ndcareapp/static/css/main.ea03659a.css",
+    "main.js": "/ndcareapp/static/js/main.bc7f7792.js",
+    "static/media/herbel.jpg": "/ndcareapp/static/media/herbel.b2e34aa1de8996bd16a5.jpg",
+    "static/media/drnavdeepsharma.webp": "/ndcareapp/static/media/drnavdeepsharma.25dc9ab8fa3a1f0f31bc.webp",
+    "index.html": "/ndcareapp/index.html",
+    "main.ea03659a.css.map": "/ndcareapp/static/css/main.ea03659a.css.map",
+    "main.bc7f7792.js.map": "/ndcareapp/static/js/main.bc7f7792.js.map"
   },
   "entrypoints": [
     "static/css/main.ea03659a.css",
-    "static/js/main.6c2835de.js"
+    "static/js/main.bc7f7792.js"
   ]
 }

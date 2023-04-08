@@ -1,0 +1,10 @@
+export {default as Header} from "./header/Header"
+export {default as Card} from "./card/Card"
+export {default as Sectionone} from "./sectionone/Sectionone"
+export {default as Sectiontwo} from "./sectiontwo/Sectiontwo"
+export {default as Sectionthree} from "./sectionthree/Sectionthree"
+export {default as Sectionfour} from "./sectionfour/Sectionfour"
+export {default as Sectionfive} from "./sectionfive/Sectionfive"
+export {default as Sectionsix} from "./sectionsix/Sectionsix"
+export {default as Contactus} from "./contactus/Contactus"
+

@@ -1,0 +1,20 @@
+.rues-heading{
+    text-align: center;
+    color: green;
+}
+.ulist {
+    text-align: center;
+  }
+  
+.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+  strong{
+    margin-right: 3px;
+    font-size: large;
+    color: green;
+  }
+  .cure-heading{
+    margin-bottom: 20px;
+  }

@@ -2,7 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://sahilthakur4ever.github.io/ndcareapp",
+  "homepage": " https://sahilthakur4ever.github.io/ndcareapp",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.16.5",
@@ -11,11 +11,11 @@
     "axios": "^1.3.5",
     "bootstrap": "^5.2.3",
     "emailjs-com": "^3.2.0",
-
+    "gh-pages": "^5.0.0",
     "iframe": "^1.0.0",
     "jquery": "^3.6.4",
     "jquery-ui-dist": "^1.13.2",
-    "react": "^18.2.0", 
+    "react": "^18.2.0",
     "react-bootstrap": "^2.7.3",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.10.0",
@@ -26,8 +26,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+   "predeploy": "npm run build",
+   "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -51,8 +51,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
   }
 }

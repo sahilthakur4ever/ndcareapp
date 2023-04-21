@@ -8,21 +8,21 @@ function Card() {
     <div>
         <div className="card-group">
         <div className="card">
-          <img className="card-img-top" src={Ayurveda} alt="Card image cap"/>
+          <img className="card-img-top" src={Ayurveda} alt="Cardimagecap"/>
           <div className="card-body">
             <h5 className="card-title">Best Herbs for Kidney Treatment</h5>
             <p className="card-text">Kidney Treatment with herbal under one of the world's senior most Herbs Experts</p>
           </div>
         </div>
         <div className="card">
-          <img className="card-img-top" src={happy} alt="Card image cap"/>
+          <img className="card-img-top" src={happy} alt="Cardimagecap"/>
           <div className="card-body">
             <h5 className="card-title">Thousands of Satisfied Kidney Patients</h5>
             <p className="card-text">Thousands of satisfied patients where dialysis was prevented or stopped with herbal treatment</p>
           </div>
         </div>
         <div className="card">
-          <img className="card-img-top" src={patiant} alt="Card image cap"/>
+          <img className="card-img-top" src={patiant} alt="Cardimagecap"/>
           <div className="card-body">
             <h5 className="card-title">Reduce Creatinine Naturally</h5>
             <p className="card-text">Best and Safest Herbs used to reduce Creatinine and Urea naturally</p>
@@ -45,7 +45,7 @@ function Card() {
         <div className="container-xxl">
             <div className="row">
                 <div className="col-lg-12">
-                    <h2></h2>
+             
                     <p>The first and foremost step of our treatment is to repair the inflammed renal tissue to the desirable extent. When a patient of Renal Failure approaches us, his Blood Urea, S.Creatinine levels are generally elevated to dangerous levels. The patient approaches us to get these levels normalized. With the help of our herbs, these levels are gradually restored to their normal levels. Though our medicines control the elevated B.Urea and S.Creatinine levels, our key objective is to target and treat the underlying cause of kidney disorders; because as such creatinine and blood urea can be controlled temporarily with dialysis also.</p>
                     <p>Therefore, our foremost aim is to repair the damaged nephrons to the desirable extent so that the kidney filters out toxin and maintain the B.Urea levels and S.Creatinine levels naturally.</p>
                     <p>The Second step of the treatment is to maintain the levels of electrolytes like Sodium, Potassium, etc. to the required levels in the blood of the kidney patient. The importance of maintaining the levels of these electrolytes is very important because even a slight imbalance of these can cause kidney impairment and endanger life of the patient.</p>

@@ -34,7 +34,7 @@ function Sectionone() {
                 </div>
                 <div className="col-lg-5 order-1 order-md-2">
                     <div className="d-flex align-items-center justify-content-center hero-img">
-                        <img src={drnavdeepsharma}/>
+                        <img src={drnavdeepsharma} alt='abc'/>
                     </div>
                 </div>
             </div>

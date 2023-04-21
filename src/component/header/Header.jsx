@@ -7,8 +7,8 @@ function Header() {
     <header>
         <nav className="navbar navbar-expand-lg navbar-light fixed-top ">
             <div className="container-xxl">
-                <a className="navbar-brand" href="#">
-                    <img src={ndcare} className="img-fluid" style={{width:"100px"}}/>
+                <a className="navbar-brand" href="/">
+                    <img src={ndcare} className="img-fluid" style={{width:"100px"}} alt='ndimg'/>
 
                         </a>
                 <div className="nav" id="navbarSupportedContent">

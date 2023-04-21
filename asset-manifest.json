@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ndcareapp/static/css/main.ea03659a.css",
-    "main.js": "/ndcareapp/static/js/main.bc7f7792.js",
+    "main.css": "/ndcareapp/static/css/main.02a836af.css",
+    "main.js": "/ndcareapp/static/js/main.0396a29f.js",
+    "static/media/pngegg-5.png": "/ndcareapp/static/media/pngegg-5.59e71de2413037701b35.png",
     "static/media/herbel.jpg": "/ndcareapp/static/media/herbel.b2e34aa1de8996bd16a5.jpg",
     "static/media/drnavdeepsharma.webp": "/ndcareapp/static/media/drnavdeepsharma.25dc9ab8fa3a1f0f31bc.webp",
     "index.html": "/ndcareapp/index.html",
-    "main.ea03659a.css.map": "/ndcareapp/static/css/main.ea03659a.css.map",
-    "main.bc7f7792.js.map": "/ndcareapp/static/js/main.bc7f7792.js.map"
+    "main.02a836af.css.map": "/ndcareapp/static/css/main.02a836af.css.map",
+    "main.0396a29f.js.map": "/ndcareapp/static/js/main.0396a29f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea03659a.css",
-    "static/js/main.bc7f7792.js"
+    "static/css/main.02a836af.css",
+    "static/js/main.0396a29f.js"
   ]
 }
